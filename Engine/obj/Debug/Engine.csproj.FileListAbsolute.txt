@@ -1,0 +1,6 @@
+C:\src\Engine\bin\Debug\Engine.dll
+C:\src\Engine\bin\Debug\Engine.pdb
+C:\src\Engine\obj\Debug\Engine.csproj.AssemblyReference.cache
+C:\src\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\src\Engine\obj\Debug\Engine.dll
+C:\src\Engine\obj\Debug\Engine.pdb
